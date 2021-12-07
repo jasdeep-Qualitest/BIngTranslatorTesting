@@ -3,12 +3,14 @@
 <suite name="Failed suite [Default suite]" guice-stage="DEVELOPMENT">
   <test thread-count="5" name="Default test(failed)">
     <classes>
-      <class name="bingTestcases.SwapTestCase">
+      <class name="bingTestcases.testCases">
         <methods>
+          <include name="ExceedingCharacterLimitTestMethod"/>
+          <include name="quit"/>
+          <include name="copyTestCase"/>
           <include name="SetUp"/>
-          <include name="checkSwapFunction"/>
         </methods>
-      </class> <!-- bingTestcases.SwapTestCase -->
+      </class> <!-- bingTestcases.testCases -->
     </classes>
   </test> <!-- Default test(failed) -->
 </suite> <!-- Failed suite [Default suite] -->

@@ -21,7 +21,7 @@ public class OutPutEditPage {
 	public void checkPageEditableOrNot() {
 		String readonly = outputTextAreaWebElement.getAttribute("readonly");
 	    Assert.assertNotNull(readonly);
-	   driver.quit();
+	
 		
 	}
 
