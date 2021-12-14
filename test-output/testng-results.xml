@@ -2,48 +2,48 @@
 <testng-results ignored="0" total="8" passed="8" failed="0" skipped="0">
   <reporter-output>
   </reporter-output>
-  <suite started-at="2021-12-07T18:05:09Z" name="Default suite" finished-at="2021-12-07T18:05:51Z" duration-ms="42750">
+  <suite started-at="2021-12-14T06:12:34Z" name="Default suite" finished-at="2021-12-14T06:13:41Z" duration-ms="66910">
     <groups>
     </groups>
-    <test started-at="2021-12-07T18:05:09Z" name="Default test" finished-at="2021-12-07T18:05:51Z" duration-ms="42750">
+    <test started-at="2021-12-14T06:12:34Z" name="Default test" finished-at="2021-12-14T06:13:41Z" duration-ms="66910">
       <class name="bingTestcases.testCases">
-        <test-method is-config="true" signature="SetUp()[pri:0, instance:bingTestcases.testCases@2474f125]" started-at="2021-12-07T18:05:09Z" name="SetUp" finished-at="2021-12-07T18:05:15Z" duration-ms="6048" status="PASS">
+        <test-method is-config="true" signature="SetUp()[pri:0, instance:bingTestcases.testCases@2474f125]" started-at="2021-12-14T06:12:34Z" name="SetUp" finished-at="2021-12-14T06:12:47Z" duration-ms="13182" status="PASS">
           <reporter-output>
           </reporter-output>
         </test-method> <!-- SetUp -->
-        <test-method signature="pageLoadTest()[pri:1, instance:bingTestcases.testCases@2474f125]" started-at="2021-12-07T18:05:15Z" name="pageLoadTest" finished-at="2021-12-07T18:05:15Z" duration-ms="34" status="PASS">
+        <test-method signature="pageLoadTest()[pri:1, instance:bingTestcases.testCases@2474f125]" started-at="2021-12-14T06:12:47Z" name="pageLoadTest" finished-at="2021-12-14T06:12:48Z" duration-ms="461" status="PASS">
           <reporter-output>
           </reporter-output>
         </test-method> <!-- pageLoadTest -->
-        <test-method signature="pageLoadJavaExecutorTest()[pri:2, instance:bingTestcases.testCases@2474f125]" started-at="2021-12-07T18:05:15Z" name="pageLoadJavaExecutorTest" finished-at="2021-12-07T18:05:15Z" duration-ms="11" status="PASS">
+        <test-method signature="pageLoadJavaExecutorTest()[pri:2, instance:bingTestcases.testCases@2474f125]" started-at="2021-12-14T06:12:48Z" name="pageLoadJavaExecutorTest" finished-at="2021-12-14T06:12:48Z" duration-ms="511" status="PASS">
           <reporter-output>
           </reporter-output>
         </test-method> <!-- pageLoadJavaExecutorTest -->
-        <test-method signature="clearTextCase()[pri:3, instance:bingTestcases.testCases@2474f125]" started-at="2021-12-07T18:05:15Z" name="clearTextCase" finished-at="2021-12-07T18:05:18Z" duration-ms="3487" status="PASS">
+        <test-method signature="clearTextCase()[pri:3, instance:bingTestcases.testCases@2474f125]" started-at="2021-12-14T06:12:48Z" name="clearTextCase" finished-at="2021-12-14T06:12:59Z" duration-ms="11126" status="PASS">
           <reporter-output>
           </reporter-output>
         </test-method> <!-- clearTextCase -->
-        <test-method signature="detactInputLangaugeIsCorrect()[pri:4, instance:bingTestcases.testCases@2474f125]" started-at="2021-12-07T18:05:18Z" name="detactInputLangaugeIsCorrect" finished-at="2021-12-07T18:05:24Z" duration-ms="6238" status="PASS">
+        <test-method signature="detactInputLangaugeIsCorrect()[pri:4, instance:bingTestcases.testCases@2474f125]" started-at="2021-12-14T06:12:59Z" name="detactInputLangaugeIsCorrect" finished-at="2021-12-14T06:13:08Z" duration-ms="8287" status="PASS">
           <reporter-output>
           </reporter-output>
         </test-method> <!-- detactInputLangaugeIsCorrect -->
-        <test-method signature="checkSwapFunction()[pri:5, instance:bingTestcases.testCases@2474f125]" started-at="2021-12-07T18:05:24Z" name="checkSwapFunction" finished-at="2021-12-07T18:05:34Z" duration-ms="9301" status="PASS">
+        <test-method signature="checkSwapFunction()[pri:5, instance:bingTestcases.testCases@2474f125]" started-at="2021-12-14T06:13:08Z" name="checkSwapFunction" finished-at="2021-12-14T06:13:18Z" duration-ms="10071" status="PASS">
           <reporter-output>
           </reporter-output>
         </test-method> <!-- checkSwapFunction -->
-        <test-method signature="editTestCase()[pri:6, instance:bingTestcases.testCases@2474f125]" started-at="2021-12-07T18:05:34Z" name="editTestCase" finished-at="2021-12-07T18:05:34Z" duration-ms="358" status="PASS">
+        <test-method signature="editTestCase()[pri:6, instance:bingTestcases.testCases@2474f125]" started-at="2021-12-14T06:13:18Z" name="editTestCase" finished-at="2021-12-14T06:13:18Z" duration-ms="614" status="PASS">
           <reporter-output>
           </reporter-output>
         </test-method> <!-- editTestCase -->
-        <test-method signature="copyTestCase()[pri:7, instance:bingTestcases.testCases@2474f125]" started-at="2021-12-07T18:05:34Z" name="copyTestCase" finished-at="2021-12-07T18:05:42Z" duration-ms="7513" status="PASS">
+        <test-method signature="copyTestCase()[pri:7, instance:bingTestcases.testCases@2474f125]" started-at="2021-12-14T06:13:18Z" name="copyTestCase" finished-at="2021-12-14T06:13:26Z" duration-ms="7856" status="PASS">
           <reporter-output>
           </reporter-output>
         </test-method> <!-- copyTestCase -->
-        <test-method signature="ExceedingCharacterLimitTestMethod()[pri:8, instance:bingTestcases.testCases@2474f125]" started-at="2021-12-07T18:05:42Z" name="ExceedingCharacterLimitTestMethod" finished-at="2021-12-07T18:05:51Z" duration-ms="9295" status="PASS">
+        <test-method signature="ExceedingCharacterLimitTestMethod()[pri:8, instance:bingTestcases.testCases@2474f125]" started-at="2021-12-14T06:13:26Z" name="ExceedingCharacterLimitTestMethod" finished-at="2021-12-14T06:13:40Z" duration-ms="13859" status="PASS">
           <reporter-output>
           </reporter-output>
         </test-method> <!-- ExceedingCharacterLimitTestMethod -->
-        <test-method is-config="true" signature="quit()[pri:0, instance:bingTestcases.testCases@2474f125]" started-at="2021-12-07T18:05:51Z" name="quit" finished-at="2021-12-07T18:05:51Z" duration-ms="429" status="PASS">
+        <test-method is-config="true" signature="quit()[pri:0, instance:bingTestcases.testCases@2474f125]" started-at="2021-12-14T06:13:40Z" name="quit" finished-at="2021-12-14T06:13:41Z" duration-ms="882" status="PASS">
           <reporter-output>
           </reporter-output>
         </test-method> <!-- quit -->
